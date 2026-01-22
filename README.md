@@ -1,2 +1,12 @@
-# btc-sentiment-api-examples-
- Official examples and SDKs for BTC Real-Time Sentiment API - Crypto market sentiment from 5+ sources using FinBERT NLP. Available on RapidAPI.  
+🚀 BTC Real-Time Sentiment API - Code Examples & SDKs                                                                                                                                                                                          
+                                                                                                                                                                                                                                                 
+  Real-time Bitcoin market sentiment analysis powered by FinBERT NLP, aggregating data from 5+ professional crypto news sources. Updated every 5 minutes.                                                                                        
+                                                                                                                                                                                                                                                 
+  Features:                                                                                                                                                                                                                                      
+  • Real-time sentiment score (0-100)                                                                                                                                                                                                            
+  • Per-source breakdown (CoinDesk, CoinTelegraph, The Block, etc.)                                                                                                                                                                              
+  • Latest headlines with individual sentiment                                                                                                                                                                                                   
+  • Macro economic events calendar                                                                                                                                                                                                               
+  • Historical data for backtesting                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                 
+  Get your API key:https://rapidapi.com/ismail91300/api/btc-real-time-sentiment-news-analysis
