@@ -161,7 +161,7 @@ Use `/history` endpoint to backtest sentiment-based strategies on historical dat
 
 - **Documentation**: [API Reference](https://rapidapi.com/ismail91300/api/btc-real-time-sentiment-news-analysis)
 - **Issues**: [GitHub Issues](https://github.com/ismail91300/btc-sentiment-api-examples-/issues)
-- **Email**: support@sahbi-systems.tech
+
 
 ## License
 
@@ -169,4 +169,4 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-Built with ❤️ by [SAHBI Systems](https://sahbi-systems.tech)
+Built with ❤️ by [SAHBI Systems]
