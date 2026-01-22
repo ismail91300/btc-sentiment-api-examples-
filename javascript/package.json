@@ -1,0 +1,22 @@
+{
+  "name": "btc-sentiment-examples",
+  "version": "1.0.0",
+  "description": "Example code for BTC Real-Time Sentiment API",
+  "main": "basic_example.js",
+  "scripts": {
+    "example": "node basic_example.js",
+    "trading": "node trading_bot.js"
+  },
+  "keywords": [
+    "bitcoin",
+    "sentiment",
+    "cryptocurrency",
+    "trading",
+    "api"
+  ],
+  "author": "SAHBI Systems",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
